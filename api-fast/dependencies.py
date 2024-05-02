@@ -2,7 +2,7 @@ from mysql.connector import connect, Error
 
 def get_db():
     try:
-        return connect(host='localhost', database='users', user='root', password='root')
+        return connect(host='users.cdicu00wopm4.us-east-2.rds.amazonaws.com', database='Users', user='root', password='kurama14')
     except Error as e:
         print(e)
 
