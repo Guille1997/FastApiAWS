@@ -8,7 +8,8 @@ origins = [
     "http://localhost:3000",  # Suponiendo que el frontend corre en localhost puerto 3000
     "https://cosmic-cat-b91a36.netlify.app",
     "https://6631b57134aa6973b162dd4b--cosmic-cat-b91a36.netlify.app",
-    "https://sensational-maamoul-6b9ca1.netlify.app"
+    "https://sensational-maamoul-6b9ca1.netlify.app",
+    "https://glittering-douhua-026e16.netlify.app"
 ]
 
 
